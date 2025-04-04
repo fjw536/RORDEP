@@ -1,5 +1,7 @@
 Author: Yong Fan (please contact yong.fan@sund.ku.dk if any questions)
 
+Affiliation: Novo Nordisk Foundation Center for Basic Metabolic Research, University of Copenhagen, Denmark
+
 Current status: Under review
 
 Manuscript detail:
