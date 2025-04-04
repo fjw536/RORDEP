@@ -6,4 +6,4 @@ Manuscript detail:
 
 Fan Y. et al., RORDEP polypeptides synthesized by commensal bacteria in human gut improve host metabolism
 
-Year: 2024
+Year: 2025
